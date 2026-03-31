@@ -1,8 +1,8 @@
 # Open Source Software Audit
 
 ## Student Details
-Name: YOUR NAME  
-Roll Number: YOUR ROLL NUMBER  
+Name: ADITYA JAIN
+Roll Number: 24BAI10474
 
 ## Selected Software
 Git (Distributed Version Control System)
